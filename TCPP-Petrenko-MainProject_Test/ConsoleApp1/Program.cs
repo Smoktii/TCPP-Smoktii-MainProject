@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Змінено! Hello World!");
+            Console.WriteLine("Змінено з браузера!! Hello World!");
         }
     }
 }
